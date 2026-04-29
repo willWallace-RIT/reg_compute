@@ -1,3 +1,6 @@
+an optimization and refactoring from an afml project
+https://github.com/willWallace-RIT/sfmlengine
+
 # Region Conditioned Compute (RCC)
 
 A library for performing efficient computation using **region-based numeric conditioning**.
