@@ -1,4 +1,4 @@
-an optimization and refactoring from an afml project
+an optimization and refactoring and port to python from an afml project
 https://github.com/willWallace-RIT/sfmlengine
 
 # Region Conditioned Compute (RCC)
